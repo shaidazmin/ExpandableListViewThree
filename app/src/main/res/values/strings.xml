@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Expandable List View Three</string>
+
+    <string-array name="header_string">
+        <item> AGP </item>
+        <item> BIOS </item>
+        <item> CPU  </item>
+        <item> DDR </item>
+        <item> DIMM </item>
+        <item> DRAM </item>
+        <item> DVI </item>
+        <item> ECC </item>
+        <item> GPU </item>
+        <item> HDD </item>
+        <item> HDTV </item>
+        <item> IDE </item>
+        <item> ISA </item>
+
+    </string-array>
+
+    <string-array name="child_string">
+        <item>
+            Accelerated Graphics Port.
+            A type of video interface introduced in 1996 as an improvement to PCI.
+            It has now been largely replaced by PCI-e.
+        </item>
+        <item>
+            Basic Input-Output Service.
+            This information is stored on a chip commonly referred to as the CMOS chip\,
+            which really isn\'t a CMOS chip at all.
+        </item>
+        <item>
+            Compact Disc.
+            A type of optical media\,
+            so called because it uses light to read the data stored on the disk.
+        </item>
+        <item>
+            The Central Processing Unit\, Microprocessor\, or simply Processor.
+        </item>
+        <item>
+            Double Data Rate.
+            A type of memory that sends and receives data twice every clock cycle\,
+            and therefore is capable of twice the data transfer rate of standard SDRAM.
+        </item>
+        <item>
+            Dual In-Line Memory Module.
+            A type of memory chip that uses a 64-bit bus, as compared to SIMM chips\,
+            which used a 32-bit bus.
+        </item>
+        <item>
+            Dynamic Random Access Memory.
+            A type of RAM that stores each bit of data on separate capacitors.
+        </item>
+        <item>
+            Digital Video.
+            A protocol for the storage and transfer of audio-visual information\,
+            often used to transfer information from a camcorder to a computer\,
+            usually over a Firewire interface.
+        </item>
+        <item>
+            Digital Video Interface.
+            A type of digital video interface that can be used by computers and other video devices.
+            It was an improvement over VGA\, but is starting to be obsolesced by HDMI.
+        </item>
+        <item>
+            Error Correction Code.
+            ECC Memory uses a parity bit to insure that data has been transmitted correctly.
+            It is both slower and more expensive than non-ECC memory\, but it\'s more reliable
+        </item>
+        <item>
+            Graphics Processing Unit.
+            The chip on a video card that processes graphics and video.
+            Sometimes integrated on the motherboard\, and sometimes on the CPU itself.
+        </item>
+        <item>
+            Hard Disk Drive.
+            An array of magnetic disks that store data until it is intentionally deleted by the user\,
+            the system, or a program.
+        </item>
+        <item>
+            High-Definition Television.
+            The over-the-air television standard that replaced NTSC in the United States.
+            Tuners are available that allow HDTV signals to be captured and processed on a computer\,
+            enabling the user to watch TV on his or her computer.
+        </item>
+        <item>
+            Integrated Device Electronics. See EIDE above.
+        </item>
+        <item>
+            Industry Standard Architecture.
+            An obsolete expansion interface\,
+            which began to be replaced by PCI and AGP in the mid-1990\'s.
+        </item>
+
+
+    </string-array>
+
+
+
+
+</resources>
